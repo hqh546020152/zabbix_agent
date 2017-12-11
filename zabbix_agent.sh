@@ -36,5 +36,4 @@ systemctl enable zabbix-agent
 #安装zabbix客户端
 zabbix_agentd_install
 #安装git
-
-cicd_git
+#cicd_git
